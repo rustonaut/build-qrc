@@ -8,9 +8,10 @@
 This crate can be used as a build dependencies. It provites a utility for
 `build.rs` files to build and include resources based on the Qt Resource
 system. With this any Qt bindings can use the "in the normal qt/qml way"
-(E.g. by loading a resource with a `qrc:`-scheme URL).
+(E.g. by loading a resource with a `qrc:/`-scheme URL).
 
 This crate for now provides following utilites:
+
 (strice through means not yet implemented)
 
 - ~~including resources based on a `.qrc` file~~
@@ -18,7 +19,8 @@ This crate for now provides following utilites:
 - ~~automaticaly generate a `.qrc` file on build~~
   - ~~based on a files in a folder~~
   - ~~with filters~~
-- ~~generate `.rcc` files~~
+- ~~configure through `Cargo.toml` metatables~~
+- ~~generate/use `.rcc` files~~
 
 ## License
 
