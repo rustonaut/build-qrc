@@ -10,8 +10,7 @@ This crate can be used as a build dependencies. It provites a utility for
 system. With this any Qt bindings can use the "in the normal qt/qml way"
 (E.g. by loading a resource with a `qrc:/`-scheme URL).
 
-This crate for now provides following utilites:
-
+This crate for now provides following utilites:<br/>
 (strice through means not yet implemented)
 
 - ~~including resources based on a `.qrc` file~~
