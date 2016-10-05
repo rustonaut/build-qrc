@@ -1,0 +1,17 @@
+[package]
+name = "build-qrc"
+version = "0.0.0"
+authors = ["Philipp korber <philippkorber@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "[NOT YET PUBLISHED] A rust build dependency to build and include resources based on the Qt Resource system"
+repository = "https://github.com/dathinab/build-qrc"
+readme = "./README.md"
+keywords = ["build-qrc", "qrc", "qt", "qml", "rcc", "resources"]
+
+
+[features]
+default = []
+dev = ["clippy"]
+
+[dependencies]
+clippy = {version = "*", optional = true}
