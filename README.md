@@ -5,7 +5,8 @@
 
 **THE IMPLEMENTATION/MAINTANCE IS CURRENTLY ON HOLD**
 
-(The reason for this is mainly time and a little bit disstatification with the rust qml bindings.)
+(The reason for this is mainly time and a little bit disstatification with the rust qml bindings.
+ (if I had more time I could contribute to the bindings))
 
 ---
 
