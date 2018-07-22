@@ -3,6 +3,10 @@
 
 **A rust build dependency to build and include resources based on the Qt Resource system**
 
+**THE IMPLEMENTATION/MAINTANCE IS CURRENTLY ON HOLD**
+
+(The reason for this is mainly time and a little bit disstatification with the rust qml bindings.)
+
 ---
 
 This crate can be used as a build dependencies. It provites a utility for
